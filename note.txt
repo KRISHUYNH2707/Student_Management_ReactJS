@@ -1,0 +1,17 @@
+ROUTING:
+
+library: react-router-dom
+V5 - V6 => 80-90%
+
+2 cơ chế:
+- Single page application ( REACT ) ( 1 trang index.html ) ( ko phải lên server lấy file html mới ) ( seo tốt )
+- Multiple page application ( nhiều trang index.html ) ( phải lên server lấy file html mới)
+
+=> Performance: Single page application > Multiple page application
+=> SEO ( Search engine optimization ): Multiple page application > Single page application
+
+
+CTRL + C
+
+npm install react-router-dom@5.2.1
+npm install react-router-dom
